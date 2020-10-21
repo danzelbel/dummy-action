@@ -1,1 +1,1 @@
-danzelbel/dummy-action@v1
+danzelbel/dummy-action@v2-alpha
